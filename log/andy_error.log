@@ -1,0 +1,25 @@
+INFO:root:ANDY를 시작합니다.
+INFO:root:rdbms 정보 가져오기....
+ERROR:root:DB TABLE 생성에 실패하였습니다.
+ERROR:root:프로그램을 종료합니다.
+INFO:root:ANDY를 시작합니다.
+INFO:root:rdbms 정보 가져오기....
+ERROR:root:close Main
+INFO:root:ANDY를 시작합니다.
+INFO:root:rdbms 정보 가져오기....
+ERROR:root:clicked runtime button
+ERROR:root:clicked startVideo
+ERROR:root:clicked runtime stop button
+ERROR:root:clicked infoMana button
+INFO:root:정보 관리 페이지
+INFO:root:신규 등록 페이지
+ERROR:root:newInformationDialog show
+ERROR:root:showModal
+ERROR:root:close newInfo
+ERROR:root:False
+ERROR:root:close Main
+INFO:root:ANDY를 시작합니다.
+INFO:root:rdbms 정보 가져오기....
+INFO:root:ANDY를 시작합니다.
+INFO:root:rdbms 정보 가져오기....
+ERROR:root:close Main
